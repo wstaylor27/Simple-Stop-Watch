@@ -4,7 +4,7 @@
 
 https://wstaylor27.github.io/Simple-Stop-Watch/
 
-![image](https://user-images.githubusercontent.com/54382901/154823007-5d0fc527-bd3c-47e7-8bbe-37ac1b13dc16.png)
+![image](https://user-images.githubusercontent.com/54382901/154823045-420880ba-25ad-4087-a3d4-c6ffba8edd3d.png)
 
 
 ## Table of Contents
