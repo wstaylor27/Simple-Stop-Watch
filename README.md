@@ -2,7 +2,7 @@
 
 ## Link to Site
 
-https://powerful-ridge-40625.herokuapp.com/
+https://wstaylor27.github.io/Simple-Stop-Watch/
 
 ## Table of Contents
 
